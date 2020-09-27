@@ -1,1 +1,1 @@
-# INST126---Project-1
+# INST126-Project-1
